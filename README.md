@@ -1,0 +1,2 @@
+# Traccar
+HASS Custom Component
